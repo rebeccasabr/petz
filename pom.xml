@@ -8,7 +8,7 @@
 		<version>2.4.2-SNAPSHOT</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.petz</groupId>
+	<groupId>br.com.petz</groupId>
 	<artifactId>petz</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>petz</name>
